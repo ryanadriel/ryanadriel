@@ -21,5 +21,5 @@
   
   <h5 align="center" dir="auto">Contact</h5>
 <p align="center" dir="auto">
-<a href="https://www.linkedin.com/in/adriel-ryan-93895521b/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" /></a> <a href="https://www.instagram.com/ryan.adriel_/"><img src="https://img.icons8.com/color/96/000000/instagram-new--v1.png" width="25" height="25" /></a>
+<a href="https://www.linkedin.com/in/adriel-ryan/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" /></a> <a href="https://www.instagram.com/ryan.adriel_/"><img src="https://img.icons8.com/color/96/000000/instagram-new--v1.png" width="25" height="25" /></a>
 </p>
