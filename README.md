@@ -6,8 +6,6 @@
 <li>💬 Contact me <a href="adrielryan.tj@hotmail.com" target="_blank">adrielryan.tj@hotmail.com</a></li>
 <li>📍 Currently live in Brazil.</li>
 <li>😄 You can call me "Ryan".</li>
-</br></br></br>
-<p>Here in Brazil I work in an advertising company, I am currently generally responsible for the development sector, acting as a full stack dev, I migrated the client sites from Codeignite to Laravel with the authorization of the directors and clients, I requested a web domain for testing, in other words Before uploading an application to production, I can do real tests with the application already in production so that if necessary, bugs can be fixed before any implementation for real use. I'm looking to migrate to backend development with a focus on Java.</p>
 
 <h5 align="center" dir="auto">Contact</h5>
 <p align="center" dir="auto">
