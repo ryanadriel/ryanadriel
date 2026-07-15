@@ -48,11 +48,7 @@ REST APIs • Clean Architecture • SOLID
 
 ## GitHub Statistics
 
-<p align="center">
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ryanadriel?cardType=level&theme=github-dark&fontFamily=Inter&preferLogin=false)](https://git.io/awesome-stats-card)
-
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ryanadriel&theme=github-dark-blue&border=3C3C3C)](https://git.io/streak-stats)
 
 ---
 
