@@ -1,32 +1,63 @@
-<img src="https://github.com/ryanadriel/ryanadriel/blob/main/Imagem_do_WhatsApp_de_2023-09-08_%C3%A0_s__10.20.25-removebg-preview.png" width="400" align="right" />
-<h2>Hi Devs 👋</h2>
-<h3>Welcome to my GitHub profile 💾</h3>
-<li>🔭 I'm currently studying to be a Backend Developer.</li>
-<li>🌱 I'm currently working as a full stack Laravel developer.</li>
-<li>💬 Contact me <a href="adrielryan.tj@hotmail.com" target="_blank">adrielryan.tj@hotmail.com</a></li>
-<li>📍 Currently live in Brazil.</li>
-<li>😄 You can call me "Ryan".</li>
+# Adriel Barbosa
 
-<h5 align="center" dir="auto">Contact</h5>
-<p align="center" dir="auto">
-<a href="https://www.linkedin.com/in/adriel-ryan/">
-  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8" alt="LinkedIn">
-</a>
-<a href="https://www.instagram.com/ryan.adriel_/">
-  <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram" alt="Instagram">
-</a>
-<a href="https://www.discord.com/in/adrielryan/">
-  <img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord" alt="Discord">
-</a>
+Backend Software Engineer
+
+I build scalable backend systems, REST APIs and SaaS platforms with a strong focus on clean architecture, maintainability and performance.
+
+Currently working with Laravel and PHP while expanding my expertise in Java and Spring Boot.
+
+---
+
+## About
+
+- Backend Developer II
+- 3+ years of professional experience
+- Specialized in backend development
+- Experience building APIs, SaaS platforms and integrations
+- Passionate about software architecture and scalable systems
+
+---
+
+## Core Technologies
+
+Backend
+
+PHP • Laravel • Java • Spring Boot
+
+Infrastructure
+
+Docker • Redis • Linux • Git
+
+Databases
+
+MySQL • PostgreSQL
+
+Practices
+
+REST APIs • Clean Architecture • SOLID
+
+---
+
+## Current Focus
+
+- Backend Engineering
+- System Design
+- Scalable SaaS Platforms
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ryanadriel?cardType=level&theme=github-dark&fontFamily=Inter&preferLogin=false)](https://git.io/awesome-stats-card)
+
 </p>
 
-<h2 dir="auto">Check my numbers #1</h2>
-<h3 dir="auto">-Statistics</h3>
-<a href="https://github.com/ryanadriel">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanadriel&layout=compact&langs_count=7&&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanadriel&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-  
-<h3 dir="auto">Tools and Languages</h3>
-<p dir="auto">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-</p>
+---
+
+## Contact
+
+- LinkedIn: https://linkedin.com/in/adriel-ryan
+- Email: adrielryan.tj@hotmail.com
+- Portfolio: https://adriel-barbosa-portfolio.vercel.app/
