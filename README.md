@@ -22,7 +22,7 @@ Currently working with Laravel and PHP while expanding my expertise in Java and 
 
 Backend
 
-PHP • Laravel • Java • Spring Boot
+PHP • Laravel
 
 Infrastructure
 
