@@ -4,7 +4,7 @@ Backend Software Engineer
 
 I build scalable backend systems, REST APIs and SaaS platforms with a strong focus on clean architecture, maintainability and performance.
 
-Currently working with Laravel and PHP while expanding my expertise in Java and Spring Boot.
+Currently working with Laravel and PHP.
 
 ---
 
