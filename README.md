@@ -6,6 +6,8 @@ I build scalable backend systems, REST APIs and SaaS platforms with a strong foc
 
 Currently working with Laravel and PHP.
 
+Most of my production PHP/Laravel work lives in private client and employer repositories — see the Experience section on [LinkedIn](https://www.linkedin.com/in/adriel-ryan/) for details, including a documented case study.
+
 ---
 
 ## About
