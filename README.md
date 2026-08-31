@@ -48,12 +48,6 @@ REST APIs • Clean Architecture • SOLID
 
 ---
 
-## GitHub Statistics
-
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ryanadriel&theme=github-dark-dimmed)](https://git.io/streak-stats)
-
----
-
 ## Contact
 
 - LinkedIn: https://linkedin.com/in/adriel-ryan
