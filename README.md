@@ -28,7 +28,7 @@ PHP • Laravel
 
 Infrastructure
 
-Docker • Redis • Linux • Git
+Docker • Redis • Git
 
 Databases
 
