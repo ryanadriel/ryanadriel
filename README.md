@@ -48,6 +48,11 @@ REST APIs • Clean Architecture • SOLID
 
 ---
 
+## Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=ryanadriel&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+---
+
 ## Contact
 
 - LinkedIn: https://linkedin.com/in/adriel-ryan
