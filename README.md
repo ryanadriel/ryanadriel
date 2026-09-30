@@ -46,6 +46,10 @@ REST APIs • Clean Architecture • SOLID
 - System Design
 - Scalable SaaS Platforms
 
+---
+
+## Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=ryanadriel&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
